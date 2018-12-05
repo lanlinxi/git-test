@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 push a test.
 Creating a new branch is quick & simple.
+=======
+push test.
+Creating a new branch is quick & simple xcvxcvxcz.
+>>>>>>> dev
